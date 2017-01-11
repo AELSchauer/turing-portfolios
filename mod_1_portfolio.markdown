@@ -6,38 +6,29 @@
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 3
-* **B: Individual Work & Projects**: 4
-* **C: Group Work & Projects**: 3
-* **D: Professional Development**: 3
-* **E: Feedback & Community Participation**: 3
+* A: End-of-Module Assessment: 3
+* B: Individual Work & Projects: 4
+* C: Group Work & Projects: 3
+* D: Professional Development: 3
+* E: Feedback & Community Participation: 3
 
 -----------------------
 
 ## A: End of Module Assessment
 
 Assessed By: Beth Sebian
+
 Challenge: Shopping List
+
 Notes: N/A
 
 ### Scores:
-**1. Ruby Syntax & API**
-* 3: Developer is able to write Ruby with some debugging of fundamental concepts
-
-**2. Completion and Progress**
-* 4: Developer fully completes baseline assignment and one of the Challenge options.**
-
-**3. Testing**
-* 3: Developer writes tests that are effective validation of functionality, but don't drive the design
-
-**4. Workflow**
-* 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
-
-**5. Collaboration**
-* 4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
-
-**6. Enumerable & Collections**
-* 3: Application demonstrates comfortable use of appropriate Enumerable methods
+* Ruby Syntax & API: 3
+* Completion and Progress: 4
+* Testing: 3
+* Workflow: 3
+* Collaboration: 4
+* Enumerable & Collections: 3
 
 ## B: Individual Work & Projects
 
@@ -56,30 +47,22 @@ Notes: N/A
 
 * [GitHub URL](https://github.com/AELSchauer/turing-date_night)
 * [Original Assignment]()
+* [Evaluation](https://github.com/turingschool/ruby-submissions/blob/master/1611-b/1module/date_night/ashley-schauer/date_night.markdown)
 
-#### Evaluation
+***Evaluation***
 
 Assessed By: Mike
 
-##### Notes:
+*Notes:*
 * Generally very thorough testing, but check to see that youre actually testing what data contains.
 
-##### Scores:
+*Scores:*
 
-**1. Functional Expectations**
-* 4: Application fulfills all base expectations and two extensions
-
-**2. Test-Driven Development**
-* 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
-
-**3. Encapsulation / Breaking Logic into Components**
-* 3: Application effectively breaks logical components apart but breaks the principle of SRP
-
-**4. Fundamental Ruby & Style**
-* 3: Application shows strong effort towards organization, content, and refactoring
-
-**5. Looping or Recursion**
-* 4: Application makes excellent use of loop/recursion techniques
+* Functional Expectations: 4
+* Test-Driven Development: 3
+* Encapsulation / Breaking Logic into Components: 3
+* Fundamental Ruby & Style: 3
+* Looping or Recursion: 4
 
 
 ### Battleship
@@ -88,68 +71,50 @@ Assessed By: Mike
 
 * [GitHub URL](https://github.com/AELSchauer/turing-complete_me)
 * [Original Assignment]()
+* [Evaluation]()
 
-#### Evaluation
+***Evaluation***
 
 Assessed By: Mike
 
-##### Notes:
+*Notes:*
 * Clean REPL.
 * App crashes after ship placement.
 * Some pretty complex logic in the CoordinatesGenerator class
 * Good use of enumerables, good style
 * Think about how methods can receive and send messages - this makes testing much easier.
 
-##### Scores:
-**1. Fundamental Ruby & Style**
-* 3: Application shows strong effort towards organization, content, and refactoring
-
-**2. Enumerable & Collections**
-* 3: Application demonstrates comfortable use of several Enumerable techniques
-
-**3. Test-Driven Development**
-* 2: Application makes some use of tests, but the coverage is insufficient
-
-**4. REPL Interface**
-* 3: Application's REPL is clear and pleasant to use
-
-**5. Breaking Logic into Components**
-* 3: Application effectively breaks logical components apart with clear intent and usage
-
-**6. Functional Expectations**
-* 2: Application runs, but does not work properly, or does not meet specifications.
-
+*Scores:*
+* Fundamental Ruby & Style: 3
+* Enumerable & Collections: 3
+* Test-Driven Development: 2
+* REPL Interface: 3
+* Breaking Logic into Component: 3
+* Functional Expectations: 2
 
 ## C: Group Work & Projects
 
 (Intro)
 
-### (Complete Me)
+### Complete Me
 
 * [GitHub URL](https://github.com/AELSchauer/turing-complete_me)
 * [Original Assignment]()
+* [Evaluation](https://github.com/turingschool/ruby-submissions/blob/master/1611-b/1module/complete_me/max_ashley.markdown)
 
 (description)
 
-#### Evaluation
+***Evaluation***
 
 Assessed By: Nate
 Notes: N/A
 
-#### 1. Functional Expectations
-**4: Application fulfills all base expectations and one extension**
-
-2. Test-Driven Development
-**4: Application is broken into components which are well tested in both isolation and integration using appropriate data**
-
-3. Encapsulation / Breaking Logic into Components
-**4: Application is expertly divided into logical components each with a clear, single responsibility**
-
-4. Fundamental Ruby & Style
-**3: Application shows strong effort towards organization, content, and refactoring**
-
-5. Enumerable & Collections
-**3: Application demonstrates comfortable use of appropriate Enumerable methods**
+*Scores:*
+* Functional Expectations: 4
+* Test-Driven Development: 4
+* Encapsulation / Breaking Logic into Components: 4
+4. Fundamental Ruby & Style: 3
+5. Enumerable & Collections: 3
 
 ##### Partner Feedback
 *Ashley -*
@@ -175,14 +140,14 @@ Notes: N/A
 * [GitHub URL](https://github.com/AELSchauer/turing-headcount)
 * [Original Assignment]()
 
-#### Evaluation
+***Evaluation***
 
 Assessed By:
 
-##### Notes:
+*Notes:*
 (notes go here)
 
-##### Scores:
+*Scores:*
 (scores go here)
 
 #### Partner Feedback
