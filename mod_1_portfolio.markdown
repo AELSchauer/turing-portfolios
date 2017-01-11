@@ -1,12 +1,10 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Ashley Schauer - M1 Portfolio
 
 ## Areas of Emphasis
 
 (What did you set out to accomplish this module?)
 
 ## Rubric Scores
-
-Fill in how *YOU* would grade yourself from 1-4 in the following categories this module:
 
 * **A: End-of-Module Assessment**: 3
 * **B: Individual Work & Projects**: 4
@@ -22,23 +20,24 @@ Assessed By: Beth Sebian
 Challenge: Shopping List
 Notes: N/A
 
-# 1. Ruby Syntax & API**
-**3: Developer is able to write Ruby with some debugging of fundamental concepts**
+### Scores:
+**1. Ruby Syntax & API**
+3: Developer is able to write Ruby with some debugging of fundamental concepts
 
-# 2. Completion and Progress
-**4: Developer fully completes baseline assignment and one of the Challenge options.**
+**2. Completion and Progress**
+4: Developer fully completes baseline assignment and one of the Challenge options.**
 
-# 3. Testing
-**3: Developer writes tests that are effective validation of functionality, but don't drive the design**
+**3. Testing**
+3: Developer writes tests that are effective validation of functionality, but don't drive the design
 
-# 4. Workflow
-**3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts**
+**4. Workflow**
+3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
 
-# 5. Collaboration
-**4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck**
+**5. Collaboration**
+4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
 
-# 6. Enumerable & Collections
-**3: Application demonstrates comfortable use of appropriate Enumerable methods**
+**6. Enumerable & Collections
+3: Application demonstrates comfortable use of appropriate Enumerable methods
 
 
 ## B: Individual Work & Projects
@@ -59,9 +58,27 @@ Notes: N/A
 
 (description)
 
-(evaluation comments)
+Assessed By: Mike
 
-(evaluation scores)
+##### Notes:
+* Generally very thorough testing, but check to see that youre actually testing what data contains.
+
+##### Scores:
+
+**1. Functional Expectations**
+4: Application fulfills all base expectations and two extensions
+
+**2. Test-Driven Development**
+3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+
+**3. Encapsulation / Breaking Logic into Components**
+3: Application effectively breaks logical components apart but breaks the principle of SRP
+
+**4. Fundamental Ruby & Style**
+3: Application shows strong effort towards organization, content, and refactoring
+
+**5. Looping or Recursion**
+4: Application makes excellent use of loop/recursion techniques
 
 (feedback to me)
 
@@ -72,34 +89,34 @@ Notes: N/A
 
 (description)
 
+##### Evaluation
+
 Assessed By: Mike
 
-Repo:https://github.com/AELSchauer/turing-battleship.git
+###### Notes:
+* Clean REPL.
+* App crashes after ship placement.
+* Some pretty complex logic in the CoordinatesGenerator class
+* Good use of enumerables, good style
+* Think about how methods can receive and send messages - this makes testing much easier.
 
-Notes:
-
-Clean REPL.
-App crashes after ship placement.
-Some pretty complex logic in the CoordinatesGenerator class
-Good use of enumerables, good style
-think about how methods can receive and send messages - this makes testing much easier.
-
-1. Fundamental Ruby & Style
+###### Scores:
+**1. Fundamental Ruby & Style**
 3: Application shows strong effort towards organization, content, and refactoring
-2. Enumerable & Collections
 
+**2. Enumerable & Collections**
 3: Application demonstrates comfortable use of several Enumerable techniques
-3. Test-Driven Development
 
+**3. Test-Driven Development**
 2: Application makes some use of tests, but the coverage is insufficient
-4. REPL Interface
 
+**4. REPL Interface**
 3: Application's REPL is clear and pleasant to use
-5. Breaking Logic into Components
 
+**5. Breaking Logic into Components**
 3: Application effectively breaks logical components apart with clear intent and usage
-6. Functional Expectations
 
+**6. Functional Expectations**
 2: Application runs, but does not work properly, or does not meet specifications.
 
 ## C: Group Work & Projects
