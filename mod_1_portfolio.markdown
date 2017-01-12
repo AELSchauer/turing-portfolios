@@ -2,15 +2,15 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+I came to Turing with three years of programming experience and I really wanted to focus on improving those skills. Partially by learning about how to be a better coder, but also to learn collaborative skills and more agile collaboration methodology.
 
 ## Rubric Scores
 
-* A: End-of-Module Assessment: 3
+* A: End-of-Module Assessment: 4
 * B: Individual Work & Projects: 4
 * C: Group Work & Projects: 3
 * D: Professional Development: 3
-* E: Feedback & Community Participation: 3
+* E: Feedback & Community Participation: 2
 
 -----------------------
 
@@ -32,21 +32,21 @@ Notes: N/A
 
 ## B: Individual Work & Projects
 
-(Intro)
+I found the early assignments pretty easy, but I always challenged myself to learn something new. I'd never worked with classes and OOP before coming to Turing and so learning that I should move a bunch of my methods from the tree class to the node class with Binary Search Tree made a huge difference. I struggled the most with TDD and Battleship due to the volume of code and trying to understand all the requirements. I put Headcount under individual projects because my partner did not contribute. This project was also a challenge, but after not completing the base requirements for Battleship, I really wanted to finish all the iterations, but I sacrifieced TDD and code sanitation.
 
 ### Sorting Suite
 
-(project description)
+Create bubble, insertion, and merge sort
 
 * [GitHub URL](https://github.com/AELSchauer/turing-sorting_suite)
-* [Original Assignment]()
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/sorting_suite.markdown)
 
 ### Date Night
 
-(project description)
+Binary search tree
 
 * [GitHub URL](https://github.com/AELSchauer/turing-date_night)
-* [Original Assignment]()
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/date_night.markdown)
 * [Evaluation](https://github.com/turingschool/ruby-submissions/blob/master/1611-b/1module/date_night/ashley-schauer/date_night.markdown)
 
 ***Evaluation***
@@ -67,11 +67,11 @@ Assessed By: Mike
 
 ### Battleship
 
-(project description)
+Create the game battleship!
 
 * [GitHub URL](https://github.com/AELSchauer/turing-complete_me)
-* [Original Assignment]()
-* [Evaluation]()
+* [Original Assignment](http://backend.turing.io/module1/projects/battleship)
+* [Evaluation](https://github.com/turingschool/ruby-submissions/blob/master/1611-b/1module/battleship/ashley-schauer.md)
 
 ***Evaluation***
 
@@ -92,17 +92,41 @@ Assessed By: Mike
 * Breaking Logic into Component: 3
 * Functional Expectations: 2
 
+### Headcount
+
+Relational database
+
+* [GitHub URL](https://github.com/AELSchauer/turing-headcount)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
+
+***Evaluation***
+
+Assessed By: Ilana
+
+*Notes:*
+* Got through IT 5
+* a little refactoring needed
+* tests could be more robust
+* overall solid work
+
+*Scores:*
+* Functional Expectations: 3
+* Test-Driven Development: 2
+* Ecapsulation / Breaking Logic into Components: 4
+* Fundamental Ruby & Style: 4
+* Code Sanitation: 1
+
 ## C: Group Work & Projects
 
-(Intro)
+Complete Me was an awesome project because Max and I were on roughly the same page with our programming skills. The amount of time we needed to complete and do well on the project was relatively small, which I think reflected how well we worked together.
 
 ### Complete Me
 
-* [GitHub URL](https://github.com/AELSchauer/turing-complete_me)
-* [Original Assignment]()
-* [Evaluation](https://github.com/turingschool/ruby-submissions/blob/master/1611-b/1module/complete_me/max_ashley.markdown)
+Trie data structure
 
-(description)
+* [GitHub URL](https://github.com/AELSchauer/turing-complete_me)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown)
+* [Evaluation](https://github.com/turingschool/ruby-submissions/blob/master/1611-b/1module/complete_me/max_ashley.markdown)
 
 ***Evaluation***
 
@@ -113,73 +137,63 @@ Notes: N/A
 * Functional Expectations: 4
 * Test-Driven Development: 4
 * Encapsulation / Breaking Logic into Components: 4
-4. Fundamental Ruby & Style: 3
-5. Enumerable & Collections: 3
+* Fundamental Ruby & Style: 3
+* Enumerable & Collections: 3
 
-##### Partner Feedback
-*Ashley -*
-
-*I really enjoyed working with you. I admire your intellectual capability and technical skill. I felt that we had a great working relationship and that we did well to achieve the project goals.*
-
-*Specifically, what I learned most from you was your ability to clearly draw and whiteboard concepts, to use tools and frameworks to communicate about and logically solve problems.*
-
-*As we've discussed, one of your significant challenges is how to manage the fact that you're so strong in this subject matter. I admired your ability and intention to work together when you had a more clear vision of how to move forward.*
-
-*I think the time that we did run into a significant issue with the parsing of the weighted hashes, I saw your true problem solving self; who you are when you're challenged come to the fore. In those moments I felt like you have a tendency to go a bit more into a cave to grind and hack the problem out. This makes sense. But I will say there may be an opportunity for you to notice when that happens and to find new tools and tricks to bring your partner into that space in a helpful way. That ability to stop and reflect on where you are in the process is a place where you could find a lot of growth.*
-
-*But on the whole I really enjoyed our dynamic. I think you are good and getting better at communicating and that it's important for you to seek out new challenges and discomfort.*
-
-*I said at our first meeting that I'd like this to be the start of a long term intellectual partnership. I still would like that, and for friendship too.*
-
-*-Max*
-
-### Headcount
-
-(project description)
-
-* [GitHub URL](https://github.com/AELSchauer/turing-headcount)
-* [Original Assignment]()
-
-***Evaluation***
-
-Assessed By:
-
-*Notes:*
-(notes go here)
-
-*Scores:*
-(scores go here)
-
-#### Partner Feedback
-(feedback to me)
+***Partner Feedback***
+* [Feedback from Max Glassie](https://gist.github.com/maxglassie/00da889f85680b798934cf7d18e16ce5)
 
 ## D: Professional Development
-(Intro)
+
+Overall, I enjoyed the professional development talks, but I think those workshops could use more substance. I felt like we were told how to do things, but not given much guidance on how to implement the things we were told. Since there might not be enough time for this, it would be helpful to provide other optional resources ( e.g. articles, videos, free online classes).
 
 ### Professional Development Workshops
-#### (Session Name)
 
-* [Link to Completed Deliverables]()
+#### Professional Branding
 
-(takeaways from session)
+* [Resume](https://docs.google.com/document/d/12X5H13EWpsyWWIptlRb_u85xbm0HQRM-y3-U1Xh_OSE/edit?usp=sharing)
+* [LinkedIn](https://www.linkedin.com/in/aelschauer/)
+
+I really enjoyed the time to sit down and really "brainsorm" about who we are. We were given a lot of guidance on how to look at who we are, where we've been, and where we want to go. Then finding common themes throughout our experiences to narrow down on what we like and what we have to offer.
+
+#### Define the Requirements
+
+* [DTR from Complete Me](https://drive.google.com/open?id=1o5-fhjnbDLyxf6a9XyhjIjcVn09Rrs81u7ye0d0KQIc)
+
+My biggest takeaway from this essions is the importnace of open and honest communication, and also writing goals down. However, my experience with implementing this has been 50/50 in how well it works. However, the partnership where it did work it worked extremely well. I think in the case where a partnership is struggling, the define the requirements can be used as "backup" when those requirements aren't being met or a jumping off point to redefine them.
+
+#### Feedback
+
+* [Max Glassie Feedback for Complete Me](https://gist.github.com/AELSchauer/79692c2d84b62d99e0b91ed49d12fd92)
+
+I thought this session was super helpful in better understanding how to give feedback and what the barriers are for both people in giving and recieving feedback. I think that more guidance could've been given on when to give critical feedback in order to nip a disagreement in the bud before it becomes a problem.
 
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
 
-(feedback from me)
+* [Max Glassie Feedback for Complete Me](https://gist.github.com/AELSchauer/79692c2d84b62d99e0b91ed49d12fd92)
 
 ### Being a Community Member
 
-(feedback to me)
+* [Feedback from Max Glassie](https://gist.github.com/maxglassie/00da889f85680b798934cf7d18e16ce5)
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I tried to offer help with coding and project problems when I overheard people who were struggling. Others students would sometimes come to me to ask for help. I struggled with my own know-it-all tendancies and how to help others without "stealing their learning". Knowing this weakness and my own goal to learn better collaboration skills, I focused on trying to be less of a "show off", and just help them solve their specific problem.
+
+I sometimes hung out with other students and talked with them about their problems or frustrations. I felt like I helped a few people with some difficult problems, and I supported cohort cohesiveness.
+
+I attended all the required gearup sessions, and most of the posse sessions (except 1 excused absence).
+
+I did not do any pairings with higher mod students, attend any of the Friday morning talks, or other optional activities.
 
 ### Gear Up
 
-(reflect on your Gear Up sessions following the below example)
+* [Growth Mindset](https://gist.github.com/AELSchauer/11f17894f9222e5ad204dd6c569de2dc)
+* [Grit](https://gist.github.com/AELSchauer/6a1e1dddf9bbe6d180d916f32f0a7407)
+* [Personality Type](https://gist.github.com/AELSchauer/44cccbed932468f10e9f28b646e4d66a)
+
 
 ------------------
 
